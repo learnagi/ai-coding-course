@@ -1,6 +1,6 @@
 ---
 title: "AI驱动的现代编程实战课程"
-slug: "ai-powered-modern-programming"
+slug: "ai-coding"
 description: "深入探讨AI编程工具的应用，提升开发效率，掌握未来编程技能"
 author: "AI Course Team"
 status: "published"
